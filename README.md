@@ -1,4 +1,4 @@
-# PY♂Trade
+# PYGYade
 紧张刺激的 Python HTTP(S) 代理库
 
 ![Py3](https://img.shields.io/badge/python-3.x-blue.svg)
